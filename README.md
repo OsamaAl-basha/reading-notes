@@ -4,3 +4,4 @@ Files | Link
 ------------ | -------------
 read01 | [Link](https://replit.com/@osamaalbasha/reading-notes-3#read01.md)
 lap01 | [Link](https://replit.com/@osamaalbasha/reading-notes-3#lap01.md) | 
+read02|[Link](https://replit.com/@osamaalbasha/reading-notes-3#read02.md)
