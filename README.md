@@ -3,8 +3,7 @@ Hello, my name is Osama Albasha , I'm 24 years old, I graduated business economy
 Files | Link
 ------------ | -------------
 read01 | [Link](https://osamaal-basha.github.io/reading-notes/read01)
-lap01 | [Link](https://osamaal-basha.github.io/reading-notes/lap01) | 
+lap01 | [Link](https://osamaal-basha.github.io/reading-notes/lap01) 
 read02|[Link](https://osamaal-basha.github.io/reading-notes/read02)
 read03|[Link](https://osamaal-basha.github.io/reading-notes/read03)
-
 
