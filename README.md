@@ -2,6 +2,10 @@ Hello, my name is Osama Albasha , I'm 24 years old, I graduated business economy
 
 Files | Link
 ------------ | -------------
-read01 | [Link](https://replit.com/@osamaalbasha/reading-notes-3#read01.md)
-lap01 | [Link](https://replit.com/@osamaalbasha/reading-notes-3#lap01.md) | 
-read02|[Link](https://replit.com/@osamaalbasha/reading-notes-3#read02.md)
+read01 | [Link](https://osamaal-basha.github.io/reading-notes/read01)
+lap01 | [Link](https://osamaal-basha.github.io/reading-notes/lap01) | 
+read02|[Link](https://osamaal-basha.github.io/reading-notes/read02)
+read03|[Link](https://osamaal-basha.github.io/reading-notes/read03)
+lap02 | [Link](https://osamaal-basha.github.io/reading-notes/lap02) | 
+read04|[Link](https://osamaal-basha.github.io/reading-notes/read04)
+
