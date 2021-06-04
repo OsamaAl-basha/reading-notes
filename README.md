@@ -6,6 +6,5 @@ read01 | [Link](https://osamaal-basha.github.io/reading-notes/read01)
 lap01 | [Link](https://osamaal-basha.github.io/reading-notes/lap01) | 
 read02|[Link](https://osamaal-basha.github.io/reading-notes/read02)
 read03|[Link](https://osamaal-basha.github.io/reading-notes/read03)
-lap02 | [Link](https://osamaal-basha.github.io/reading-notes/lap02) | 
-read04|[Link](https://osamaal-basha.github.io/reading-notes/read04)
+
 
